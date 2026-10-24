@@ -1,0 +1,51 @@
+Feedback_ID,Category,Age,Rating,Location,Comments
+FB-1001,Transport,21.0,2,Fuvahmulah,High noise pollution near the industrial zone.
+FB-1002,Public Health,37.0,4,Kulhudhuffushi,Road paving in our area was completed very fast.
+FB-1003,Services,27.0,2,Fuvahmulah,The wait times at the hospital are far too long.
+FB-1004,Environment,28.0,3,Hulhumalé,Standard facilities available as expected.
+FB-1005,Environment,31.0,4,Malé,Very friendly staff at the local health clinic.
+FB-1006,Transport,,4,Hulhumalé,Ferry services are punctual and efficient.
+FB-1007,Infrastructure,32.0,5,Malé,The new park in Malé is wonderful for families.
+FB-1008,Environment,,4,Malé,Excellent community outreach initiatives.
+FB-1009,Transport,43.0,3,Malé,"Needs minor tweaks to timing, but overall fine."
+FB-1010,Education,20.0,5,Hulhumalé,The new park in Malé is wonderful for families.
+FB-1011,Transport,42.0,1,Kulhudhuffushi,Bus schedules are unpredictable and unreliable.
+FB-1012,Transport,35.0,3,Malé,"Needs minor tweaks to timing, but overall fine."
+FB-1013,Services,18.0,3,Hulhumalé,"The service was acceptable, nothing special."
+FB-1014,Infrastructure,41.0,3,Malé,Average response time from municipal support.
+FB-1015,Public Health,39.0,5,Malé,The new park in Malé is wonderful for families.
+FB-1016,Infrastructure,48.0,3,Kulhudhuffushi,"The service was acceptable, nothing special."
+FB-1017,Education,43.0,3,Malé,"The service was acceptable, nothing special."
+FB-1018,Education,37.0,2,Addu City,Public parks lack maintenance and clean facilities.
+FB-1019,Public Health,34.0,3,Hulhumalé,Average response time from municipal support.
+FB-1020,Transport,30.0,3,Kulhudhuffushi,Standard facilities available as expected.
+FB-1021,Services,,3,Malé,"Needs minor tweaks to timing, but overall fine."
+FB-1022,Transport,44.0,5,Kulhudhuffushi,Very friendly staff at the local health clinic.
+FB-1023,Transport,37.0,5,Kulhudhuffushi,Very friendly staff at the local health clinic.
+FB-1024,Infrastructure,,2,Malé,Public parks lack maintenance and clean facilities.
+FB-1025,Infrastructure,34.0,3,Addu City,"The service was acceptable, nothing special."
+FB-1026,Infrastructure,31.0,5,Malé,Road paving in our area was completed very fast.
+FB-1027,Infrastructure,,3,Hulhumalé,Average response time from municipal support.
+FB-1028,Education,29.0,3,Vilimallé,"The service was acceptable, nothing special."
+FB-1029,Public Health,33.0,3,Vilimallé,"Needs minor tweaks to timing, but overall fine."
+FB-1030,Transport,42.0,3,Malé,"Needs minor tweaks to timing, but overall fine."
+FB-1031,Education,27.0,4,Malé,Great improvement in public transportation services!
+FB-1032,Transport,29.0,2,Hulhumalé,Garbage collection is frequently delayed on weekends.
+FB-1033,Public Health,43.0,1,Addu City,Traffic congestion during peak hours is terrible.
+FB-1034,Infrastructure,39.0,4,Malé,The new park in Malé is wonderful for families.
+FB-1035,Education,44.0,2,Vilimallé,Potholes on the main road are damaging vehicles.
+FB-1036,Infrastructure,45.0,2,Hulhumalé,Traffic congestion during peak hours is terrible.
+FB-1037,Public Health,35.0,5,Vilimallé,Road paving in our area was completed very fast.
+FB-1038,Infrastructure,,2,Vilimallé,Public parks lack maintenance and clean facilities.
+FB-1039,Transport,23.0,3,Hulhumalé,Standard facilities available as expected.
+FB-1040,Services,21.0,2,Malé,Drainage system overflows whenever it rains heavily.
+FB-1041,Transport,23.0,4,Malé,Waste management has significantly improved this month.
+FB-1042,Public Health,46.0,4,Vilimallé,Road paving in our area was completed very fast.
+FB-1043,Services,18.0,4,Hulhumalé,Excellent community outreach initiatives.
+FB-1044,Infrastructure,24.0,3,Malé,Standard facilities available as expected.
+FB-1045,Infrastructure,18.0,5,Malé,Very friendly staff at the local health clinic.
+FB-1046,Infrastructure,31.0,4,Fuvahmulah,Excellent community outreach initiatives.
+FB-1047,Public Health,,3,Fuvahmulah,Average response time from municipal support.
+FB-1048,Infrastructure,41.0,4,Malé,Street lighting upgrade has made walking at night safe.
+FB-1049,Education,35.0,5,Malé,The new park in Malé is wonderful for families.
+FB-1050,Public Health,38.0,3,Malé,"Needs minor tweaks to timing, but overall fine."
